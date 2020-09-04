@@ -1,0 +1,8 @@
+[submodule "sub_repo1"]
+	path = sub_repo1
+	url = https://github.com/enggsajjad/sub_repo1.git
+	branch = master
+[submodule "sub_repo2"]
+	path = sub_repo2
+	url = https://github.com/enggsajjad/sub_repo2.git
+	branch = master
